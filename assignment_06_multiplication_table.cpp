@@ -89,8 +89,6 @@ int main() {
 
     printTable(number);
 
-
-
     int n;
 
     cout << "\nEnter N for tables from 1 to N: ";
