@@ -1,0 +1,34 @@
+[33m3a01ceb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add assignment files
+ assignment_06_multiplication_table.cpp | 2 [31m--[m
+ 1 file changed, 2 deletions(-)
+[33me472962[m Add assignment files
+ assignment_01_prime_checker.cpp | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[33m2f79e1c[m submit assignments 1-9
+ .vscode/c_cpp_properties.json          |  18 [32m+++[m
+ .vscode/launch.json                    |  24 [32m++++[m
+ .vscode/settings.json                  |  60 [32m++++++++++[m
+ assignment_01_prime_checker.cpp        |  33 [32m++++++[m
+ assignment_02_student_grade_system.cpp |  42 [32m+++++++[m
+ assignment_03_array_statistics.cpp     |  78 [32m++++++++++++[m[31m-[m
+ assignment_04_matrix_operations.cpp    | 201 [32m+++++++++++++++++++++++++++++++++[m
+ assignment_05_fibonacci_sequence.cpp   |  63 [32m+++++++++++[m
+ assignment_06_multiplication_table.cpp |  48 [32m++++++++[m
+ assignment_07_todo_list.cpp            | 101 [32m+++++++++++++++++[m
+ assignment_08_student_records.cpp      | 144 [32m++++++++++++++++++++++[m[31m-[m
+ assignment_09_simple_calculator.cpp    | 130 [32m+++++++++++++++++++++[m
+ 12 files changed, 940 insertions(+), 2 deletions(-)
+[33mefb4733[m add deadline
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+[33mc02c8a7[m Initial commit
+ assignment_01_prime_checker.cpp        | 39 [32m++++++++++++++++[m
+ assignment_02_student_grade_system.cpp | 48 [32m+++++++++++++++++++[m
+ assignment_03_array_statistics.cpp     | 44 [32m++++++++++++++++++[m
+ assignment_04_matrix_operations.cpp    | 67 [32m+++++++++++++++++++++++++++[m
+ assignment_05_fibonacci_sequence.cpp   | 53 [32m+++++++++++++++++++++[m
+ assignment_06_multiplication_table.cpp | 59 [32m+++++++++++++++++++++++[m
+ assignment_07_todo_list.cpp            | 82 [32m++++++++++++++++++++++++++++++++[m
+ assignment_08_student_records.cpp      | 85 [32m++++++++++++++++++++++++++++++++++[m
+ assignment_09_simple_calculator.cpp    | 75 [32m++++++++++++++++++++++++++++++[m
+ 9 files changed, 552 insertions(+)
